@@ -1,0 +1,1 @@
+exports.myText = "Module Says Hi";
